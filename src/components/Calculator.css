@@ -1,0 +1,36 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+.wrapper{
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+.white {
+    background-color: white;
+}
+.orange {
+    background-color: #FF8C00;
+}
+.gray {
+    background-color: #5F6368;
+}
+.darkorange {
+    background-color: #F55A34;
+}
+.result {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size:3.5em;
+}
